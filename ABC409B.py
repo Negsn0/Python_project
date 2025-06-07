@@ -6,12 +6,12 @@ A_max = max(A)
 k = 0
 count = N
 
-for n in range(1,A_max):
-    count_n = A.count(n)
+for n in range(1,A_max+1):
+    count_n = A.count(n-1)
     count -= count_n
     if count >= n:
         k = n
     elif count < n:
         break
 
-print(n)
+print(k)
