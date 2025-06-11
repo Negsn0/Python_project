@@ -238,3 +238,6 @@ if temp < minimum:
 r = N % K  # NをKで割った余り
 print(min(r, abs(r - K)))  # 余りと(K-余り)の小さい方を出力
 ```
+
+## to do
+- dictの勉強
