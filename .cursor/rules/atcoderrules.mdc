@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## "抽出、振り分け"と言われたとき
+
+---
+
+フォルダ内の未分類のpythonファイルのメソッドを抽出し、memos.mdに記入。その後各フォルダに振り分けてください。
